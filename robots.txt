@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gottojuridico.com.ar/sitemap.xml
+Sitemap: https://www.hottoestudiojuridico.com.ar/sitemap.xml
